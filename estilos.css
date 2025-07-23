@@ -37,7 +37,7 @@ body {
   background-color: #fff9db; /* Amarillo pastel */
   text-align: center;
   color: #333;
-  background-image: url("imagene/flores.png");
+  background-image: url("Imagenes/flores.png");
   background-size: cover;
   background-position: center;
   background-repeat: repeat;
@@ -96,7 +96,7 @@ img {
    === BANNER PRINCIPAL ===
 ===================================================== */
 .banner {
-  background-image: url("imagene/Fondo1.jpg");
+  background-image: url("Imagenes/Fondo1.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
